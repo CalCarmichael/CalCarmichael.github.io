@@ -428,22 +428,22 @@ a.icon {
 }
 
 .header-one {
-  background-color: #f2f2f2 ;
+  background: url('../images/Wallpaper3.jpg') no-repeat ;
   height: 40vh !important;
   min-height: 420px;
   padding-top: 150px !important;
 }
 .header-two {
-  background-color: #f2f2f2;
+  background: url('../images/Wallpaper3.jpg') no-repeat ;
 }
 .header-three {
-  background-color: #f2f2f2;
+  background: url('../images/Wallpaper3.jpg') no-repeat ;
 }
 .header-four {
-  background-color: #f2f2f2;
+  background: url('../images/Wallpaper3.jpg') no-repeat ;
 }
 .header-five {
-  background-color: #f2f2f2;
+  background: url('../images/Wallpaper3.jpg') no-repeat ;
 }
 
 /* Portfolio section styles
